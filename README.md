@@ -7,7 +7,7 @@ A simple, local voice-cloning, voice-design, and custom-voice generator powered 
 <!-- Add a screenshot or GIF of the app here once you have one, e.g.: -->
 <!-- ![App screenshot](screenshot.png) -->
 
-> 🍎 On a Mac with Apple Silicon instead of an NVIDIA GPU? Use the companion repo: [qwen3-tts-apple-silicon-demo](#https://github.com/samiu11ah/qwen3-tts-apple-silicon-demo.git)
+> 🍎 On a Mac with Apple Silicon instead of an NVIDIA GPU? Use the companion repo: [qwen3-tts-apple-silicon-demo](https://github.com/samiu11ah/qwen3-tts-apple-silicon-demo.git)
 
 ---
 
