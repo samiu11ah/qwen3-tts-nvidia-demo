@@ -49,7 +49,7 @@ git clone https://github.com/samiu11ah/qwen3-tts-nvidia-demo.git
 cd qwen3-tts-nvidia-demo
 python -m venv venv
 venv\Scripts\activate
-pip install -r requirements_nvidia.txt
+pip install -r requirements.txt
 python nvidia_app.py
 ```
 
@@ -80,7 +80,7 @@ Open that in your browser — the app loads with three tabs: Clone, VoiceDesign,
 | File | Purpose |
 |---|---|
 | `nvidia_app.py` | The Gradio app — run this to start |
-| `requirements_nvidia.txt` | Python packages needed to run the app |
+| `requirements.txt` | Python packages needed to run the app |
 | `README.md` | This guide |
 | `LICENSE` | This repo's open-source license |
 
