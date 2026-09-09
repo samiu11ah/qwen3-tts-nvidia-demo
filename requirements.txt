@@ -1,1 +1,20 @@
+# Qwen3-TTS — NVIDIA / CUDA backend requirements
+#
+# Setup:
+#   python -m venv venv
+#   source venv/bin/activate        # Windows: venv\Scripts\activate
+#   pip install -r requirements_nvidia.txt
+#   python nvidia_app.py
 
+torch>=2.1
+transformers>=4.42
+qwen-tts
+soundfile
+gradio>=4.31
+
+# Optional but recommended: reduces GPU memory usage and speeds up inference.
+# Requires a CUDA GPU compatible with FlashAttention 2 and can only be used
+# when the model is loaded in torch.float16/bfloat16 (already the case here).
+# See https://github.com/Dao-AILab/flash-attention for build requirements.
+# On machines with <96GB RAM, install with: MAX_JOBS=4 pip install flash-attn --no-build-isolation
+# flash-attn --no-build-isolation
