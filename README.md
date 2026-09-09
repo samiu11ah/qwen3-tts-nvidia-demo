@@ -45,7 +45,7 @@ Open a terminal (Command Prompt) and check each of these:
 Open a terminal and run these commands one at a time:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/qwen3-tts-nvidia-demo.git
+git clone https://github.com/samiu11ah/qwen3-tts-nvidia-demo.git
 cd qwen3-tts-nvidia-demo
 python -m venv venv
 venv\Scripts\activate
