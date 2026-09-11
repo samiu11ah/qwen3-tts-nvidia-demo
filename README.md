@@ -4,8 +4,8 @@ A simple, local voice-cloning, voice-design, and custom-voice generator powered 
 
 ▶️ **Watch the full setup walkthrough on YouTube:** [Insert your video link here]
 
-<!-- Add a screenshot or GIF of the app here once you have one, e.g.: -->
-<!-- ![App screenshot](screenshot.png) -->
+## 📺 Full Setup & Comparison Video
+[![Qwen3 TTS: The FREE ElevenLabs Alternative for AI Voice Cloning (Run Locally!)](https://img.youtube.com/vi/RPlN7pfs9tg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Qwen3 TTS: The FREE ElevenLabs Alternative for AI Voice Cloning (Run Locally!))
 
 > 🍎 On a Mac with Apple Silicon instead of an NVIDIA GPU? Use the companion repo: [qwen3-tts-apple-silicon-demo](https://github.com/samiu11ah/qwen3-tts-apple-silicon-demo.git)
 
